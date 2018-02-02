@@ -11,6 +11,6 @@ In root dir of Node_Web_Scraper:
 Run: npm install
      npm start
 Node service should be running on port 8090, and web client will be running on localhost:3000
-Go to localhost:3000
+Go to localhost:3000 in a web browser. 
 Use search bar to type desired url of date for Stanford event calendar to scrape i.e.: http://events.stanford.edu/2018/February/2/ and hit submit
 Results will render below.
